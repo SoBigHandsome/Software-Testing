@@ -1,0 +1,7 @@
+1493899747905	geckodriver	INFO	Listening on 127.0.0.1:40032
+1493899749681	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EiEpCGYkE9Q6
+1493899749682	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493899750392	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45368
+1493899783883	Marionette	INFO	Listening on port 45368
+1493899786701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 396: Error: OS.File has been shut down. Rejecting post to stat
